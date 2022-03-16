@@ -22,13 +22,13 @@
            fetch="https://github.com/"
            sync-c="true"
            sync-j="4"
-           revision="refs/heads/12.0" />
+           revision="refs/heads/12.1" />
 
   <remote  name="crdroid-gitlab"
            fetch="https://gitlab.com/"
            sync-c="true"
            sync-j="4"
-           revision="refs/heads/12.0" />
+           revision="refs/heads/12.1" />
 
   <superproject name="platform/superproject" remote="aosp" revision="android-12.1.0_r1" />
   <contactinfo bugurl="go/repo-bug" />
